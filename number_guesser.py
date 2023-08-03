@@ -9,14 +9,14 @@ while p == "y":
     guess = int(input("Enter any number between " + str(a) + " and " + str(b) + ": "))
     while n!= guess:
         if guess < n:
-            print("Too low")
+            print("Too low!")
             guess = int(input("Enter number again: "))
         elif guess > n:
             print("Too high!")
             guess = int(input("Enter number again: "))
 
 
-    print("you guessed it right!!")
+    print("You guessed right!")
     n = random.randrange(a,b)
     a = a*10
     b = b*10
