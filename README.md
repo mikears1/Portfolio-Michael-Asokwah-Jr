@@ -1,5 +1,5 @@
 # General
-Various labs and projects that I have worked on in Python, CSS, HTML
+Various labs and projects that I have worked on in Python. 
 
 1. (L8q1.py) This program simulates an employee database, with the user able to
  add, look up, edit, or delete employees form the database. 
