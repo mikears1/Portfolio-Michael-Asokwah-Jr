@@ -1,5 +1,5 @@
 # Portfolio Michael Asokwah Jr
-Various labs and projects that I have worked on concerling Python, Microsoft Excel, and supporting platforms. 
+Various labs and projects that I have worked on concerning Python,, Microsoft Excel, Tableau and PowerBI. 
 
 1. (L8q1.py) This program simulates an employee database, with the user able to
  add, look up, edit, or delete employees form the database. 
